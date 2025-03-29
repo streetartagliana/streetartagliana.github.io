@@ -1,0 +1,13 @@
+
+
+.blog_holder.masonry article .post_image a .post_overlay, .blog_holder.masonry_full_width article .post_image a .post_overlay, .latest_post_holder .boxes_image a .latest_post_overlay {
+    background-color: rgba(176,176,176,0.6);
+}
+
+.projects_holder article .portfolio_shader, .projects_masonry_holder article .portfolio_shader, .portfolio_slides .portfolio_shader {
+    background-color: rgba(176,176,176,0.6);
+}
+.portfolio_single_custom_date
+{
+display:none;
+}
